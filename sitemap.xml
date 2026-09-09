@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://jerseyvillehvac.trafficforge.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://jerseyvillehvac.trafficforge.app/areas/ac-repair-cypress-tx.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jerseyvillehvac.trafficforge.app/areas/ac-replacement-katy-tx.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jerseyvillehvac.trafficforge.app/faq.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jerseyvillehvac.trafficforge.app/guides/ac-not-cooling-houston-heat.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://jerseyvillehvac.trafficforge.app/service-areas.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://jerseyvillehvac.trafficforge.app/services/ac-repair.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://jerseyvillehvac.trafficforge.app/services/ac-replacement.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://jerseyvillehvac.trafficforge.app/services/ductwork-repair-sealing.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://jerseyvillehvac.trafficforge.app/services/emergency-ac-service.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://jerseyvillehvac.trafficforge.app/services/hvac-maintenance.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://jerseyvillehvac.trafficforge.app/service-areas.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://jerseyvillehvac.trafficforge.app/faq.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jerseyvillehvac.trafficforge.app/services/thermostat-installation.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
 </urlset>
